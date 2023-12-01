@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#imported the class to be inherited
 from user import User
 
 class Student(User):
